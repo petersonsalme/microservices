@@ -1,0 +1,4 @@
+GET http://localhost:8080/api/gateway
+
+GET http://localhost:8180/api/greeting
+GET http://localhost:8280/api/greeting
